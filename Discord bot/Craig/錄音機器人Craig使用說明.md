@@ -1,6 +1,6 @@
 # 錄音機器人Craig使用說明
 1. 進入語音頻道之後，再進行機器人呼叫，呼叫方式，任意文字頻道輸入```/join```。Craig就會進入你現在身處的語音頻道中。  
-[![1]((https://github.com/SilasYoome/trpg_file/blob/main/Discord%20bot/Craig/img/1.png)]
+[![1](img/1.png)]
 2. 出現以下提示訊息就表示成功錄音
 
 3. 同時可以發現Craig會私訊你一段訊息，這是下載音檔的網址
