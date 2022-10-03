@@ -1,4 +1,4 @@
-# 錄音機器人Craig使用說明
+# 錄音機器人Craig使用說明  
 ![Craig logo](img/Craig logo.png)
 1. 進入語音頻道之後，再進行機器人呼叫，呼叫方式，任意文字頻道輸入```/join```。Craig就會進入你現在身處的語音頻道中。  
 ![1](img/1.png)
