@@ -9,13 +9,13 @@ CCFolia首頁 -> [https://ccfolia.com/](https://ccfolia.com/)
 ## 2. 註冊帳號
 
 點擊「開始使用」
-![01_Sign up_1](img/01_Sign up_1.png)
+![01_Sign_up_1](img/01_Sign_up_1.png)
 
 點擊「建立新的帳號」進行註冊
-![02_Sign up_2](img/02_Sign up_2.png)
+![02_Sign_up_2](img/02_Sign_up_2.png)
 
 因為只支持第三方登入，因此選擇使用Google或Twitter登入
-![03_Sign in](img/03_Sign in.png)
+![03_Sign_in](img/03_Sign_in.png)
 
 ## 3. 「維持登入的狀態下」進入主持人提供的房間網址，方可進行角色創建
 1. 角色創建教學影片  
