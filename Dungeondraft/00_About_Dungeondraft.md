@@ -35,16 +35,16 @@
 ### 1. 設定自動備份
 首先開啟Dungeondraft時會發現上方一排的工具列  
 ![00_Dungeondraft_top_menu](img/CH00/00_Dungeondraft_top_menu.png)  
-點擊左上角的"Menu"按鈕，並點擊其中的"Preferences"  
+點擊左上角的```Menu```按鈕，並點擊其中的```Preferences```  
 ![00_Dungeondraft_menu](img/CH00/00_Dungeondraft_menu.png)  
 這裡要注意的是自動備份(Automatic Backups)的設置，在默認的情況下，會每10分鐘備份一次，並且最多保留50個備份。  
 當這數量超過限制，將會自動刪除最舊的備份以騰出空間。  
 通常自動備份的這定不用特別去調整，直接使用預設值即可  
 ![00_Dungeondraft_Preferences](img/CH00/00_Dungeondraft_Preferences.png)  
-因此，我們只需要按下"Close"，讓這些參數持預設值即可  
+因此，我們只需要按下```Close```，讓這些參數持預設值即可  
 
 ### 2. 自動備份儲存的位置
-點擊左"Menu"，並點擊其中的"Open User Folder"  
+點擊左```Menu```，並點擊其中的```Open User Folder```  
 ![00_Dungeondraft_menu_OpenUserFolder](img/CH00/00_Dungeondraft_menu_OpenUserFolder.png)  
 
 這是打開Dungeondraft用戶資料夾最快的方式，你也可以瀏覽以下位置到用戶資料夾  
@@ -57,28 +57,28 @@
 ![00_Dungeondraft_UserFolder_1](img/CH00/00_Dungeondraft_UserFolder_1.png)  
 
 如果你在繪製地圖的過程中發生了程式崩潰，就可以在這裡找到之前的備份，並透過加載最新的備份來恢復你之前的工作進度。  
-當你打開備份檔案的地圖後，務必確保不要將此地圖重新儲存回備份資料夾中了。點擊「另存新檔(Save As option)」(在"Menu"下拉選單中)將此地圖儲存到其他資料夾中。  
+當你打開備份檔案的地圖後，務必確保不要將此地圖重新儲存回備份資料夾中了。點擊「另存新檔(Save As option)」(在```Menu```下拉選單中)將此地圖儲存到其他資料夾中。  
 
-> **Note**
+> **Note**  
 > 雖然自動備份在緊急狀況下是個很重要的功能，他能確保你的資料不因為意外而損毀。但這裡依舊不建議過度去依賴此功能。  
 > 建議還是養成時常儲存檔案的習慣，並為不同版本的地圖儲存不同的檔案。  
-> 此自動備份是個不錯的功能，但不到緊急情會最好不要用到它。  
+> 此自動備份是個不錯的功能，但不到緊急情況最好不要用到它。  
 
 ## 3. 設定第三方素材(Assets)的位置
 Dungeondraft有允許玩家匯入第三方素材的功能。可能剛使用Dungeondraft時不太會用到這功能，但還是建議給他先設定一個位置。  
-這個位置可以設定在任何你經常儲存的位置。不過這裡建議是建立在"文件"資料夾中，在這創建一個新資料夾，並命名為“Dungeondraft_packs”，這資料夾也會是此偏的範例位置。  
+這個位置可以設定在任何你經常儲存的位置。不過這裡建議是建立在```文件```資料夾中，在這創建一個新資料夾，並命名為“Dungeondraft_packs”，這資料夾也會是此篇的範例位置。  
 如果你選擇在不同的位置底下建立這個資料夾，請在執行相關行動時適當的修改你的儲存位置。  
 
-檢視上方個工作列，並點擊"Assets"選項  
+檢視上方個工作列，並點擊```Assets```選項  
 ![00_Dungeondraft_asset](img/CH00/00_Dungeondraft_asset.png)  
 
-他將會開啟一個名為"Custom Assets"的視窗，點擊右邊的"Browse"  
+他將會開啟一個名為```Custom Assets```的視窗，點擊右邊的```Browse```  
 ![00_Dungeondraft_asset_set_address](img/CH00/00_Dungeondraft_asset_set_address.png)  
 
-將會開啟選擇資料夾的視窗，瀏覽你要選擇的儲存第三方位置的資料夾。不用將資料夾開啟，只需要點擊它並出現點擊提示即可，隨後點擊"選擇資料夾"  
+將會開啟選擇資料夾的視窗，瀏覽你要選擇的儲存第三方位置的資料夾。不用將資料夾開啟，只需要點擊它並出現點擊提示即可，隨後點擊```選擇資料夾```  
 ![00_Dungeondraft_asset_folder](img/CH00/00_Dungeondraft_asset_folder.png)  
 
-確認它上面顯示的是正確的資料夾位置，便可點擊下方的"Accept"  
+確認它上面顯示的是正確的資料夾位置，便可點擊下方的```Accept```  
 ![00_Dungeondraft_asset_accept](img/CH00/00_Dungeondraft_asset_accept.png)  
 
 
